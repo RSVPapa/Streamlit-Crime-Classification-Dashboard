@@ -10,10 +10,10 @@ A Streamlit web application that performs **Exploratory Data Analysis (EDA)**, *
 
 ### Members:
 - Benito, Keane Kurt A.
+- Besario, Adrian B.
+- Labao, Joaquin Anton C.
 - Limpiada, Erin Brent P.
 - Papa, Rishon Simone V.
-- Besario, Adrian B.
-- 
 
 [Palagay nalang ng mga names sa members para ma-add kayo sa commit history - P.]
 
