@@ -9,7 +9,7 @@ A Streamlit web application that performs **Exploratory Data Analysis (EDA)**, *
 - https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present
 
 ### Members:
--
+- Benito, Keane Kurt A.
 - Limpiada, Erin Brent P.
 - Papa, Rishon Simone V.
 
